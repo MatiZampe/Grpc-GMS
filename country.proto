@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+package country;
+
+message Country {
+	int32 id = 1;
+	string name = 2;
+	string code = 3;
+}
+
+message ReadCountryRequest {
+	int32 country_id = 1;
+}
+
+message ReadCountryResponse {
+	Country Country = 1;
+}
+
+message ListCountryResponse {
+    Country Country = 1;
+}
+
+message ListCountryRequest{
+
+}
+
+
+service CountryService {
+    rpc ReadCountry (ReadCountryRequest) returns (ReadCountryResponse);
+    rpc ListCountry (ListCountryRequest) returns (stream ListCountryResponse);
+}

@@ -1,0 +1,2 @@
+models/Country.cs \
+models/CountryGrpc.cs: ../country.proto

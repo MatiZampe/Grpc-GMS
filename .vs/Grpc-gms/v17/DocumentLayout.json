@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mzampelunghe\\source\\repos\\Grpc-gms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{416F5661-8E19-465C-84A0-AB5DA925026C}|Server-Gms\\Server-Gms.csproj|c:\\users\\mzampelunghe\\source\\repos\\grpc-gms\\server-gms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416F5661-8E19-465C-84A0-AB5DA925026C}|Server-Gms\\Server-Gms.csproj|solutionrelative:server-gms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416F5661-8E19-465C-84A0-AB5DA925026C}|Server-Gms\\Server-Gms.csproj|C:\\Users\\mzampelunghe\\source\\repos\\Grpc-gms\\server-gms\\countryserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416F5661-8E19-465C-84A0-AB5DA925026C}|Server-Gms\\Server-Gms.csproj|solutionrelative:server-gms\\countryserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1D605B-4988-4D5F-BEE5-6F6C530BC79E}|proto{CA1D605B-4988-4D5F-BEE5-6F6C530BC79E}|C:\\Users\\mzampelunghe\\source\\repos\\Grpc-gms\\country.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CA1D605B-4988-4D5F-BEE5-6F6C530BC79E}|proto{CA1D605B-4988-4D5F-BEE5-6F6C530BC79E}|solutionrelative:country.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91D9DE4-71AB-4E42-AD2E-1E4A14DC5C1D}|Client-Gms\\Client-Gms.csproj|C:\\Users\\mzampelunghe\\source\\repos\\Grpc-gms\\client-gms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91D9DE4-71AB-4E42-AD2E-1E4A14DC5C1D}|Client-Gms\\Client-Gms.csproj|solutionrelative:client-gms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mzampelunghe\\source\\repos\\Grpc-gms\\Client-Gms\\Program.cs",
+              "RelativeDocumentMoniker": "Client-Gms\\Program.cs",
+              "ToolTip": "C:\\Users\\mzampelunghe\\source\\repos\\Grpc-gms\\Client-Gms\\Program.cs",
+              "RelativeToolTip": "Client-Gms\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAApwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:29:41.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\mzampelunghe\\source\\repos\\Grpc-gms\\Server-Gms\\CountryServiceImpl.cs",
+              "RelativeDocumentMoniker": "Server-Gms\\CountryServiceImpl.cs",
+              "ToolTip": "C:\\Users\\mzampelunghe\\source\\repos\\Grpc-gms\\Server-Gms\\CountryServiceImpl.cs",
+              "RelativeToolTip": "Server-Gms\\CountryServiceImpl.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAqwCsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:29:27.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "country.proto",
+              "DocumentMoniker": "C:\\Users\\mzampelunghe\\source\\repos\\Grpc-gms\\country.proto",
+              "RelativeDocumentMoniker": "country.proto",
+              "ToolTip": "C:\\Users\\mzampelunghe\\source\\repos\\Grpc-gms\\country.proto",
+              "RelativeToolTip": "country.proto",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-09-09T18:10:29.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mzampelunghe\\source\\repos\\Grpc-gms\\Server-Gms\\Program.cs",
+              "RelativeDocumentMoniker": "Server-Gms\\Program.cs",
+              "ToolTip": "C:\\Users\\mzampelunghe\\source\\repos\\Grpc-gms\\Server-Gms\\Program.cs",
+              "RelativeToolTip": "Server-Gms\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:06:40.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
